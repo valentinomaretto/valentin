@@ -1,4 +1,7 @@
 print("CALCULATOR")
+
+answer=1
+
 infinito=1
 while infinito > 0:
     operation=input("what operation do you want to do? (sum/subtraction/multiplication/division)").upper()
